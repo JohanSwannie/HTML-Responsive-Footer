@@ -41,7 +41,7 @@ ul {
     font-size: 22px;
     color: #f1bc0d;
     text-decoration: underline;
-    text-underline-position: under;
+    text-underline-offset: .75rem;
     text-transform: capitalize;
 }
 
